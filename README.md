@@ -117,7 +117,3 @@ To fix **callback hell**, we now often use:
 | **Callback**        | A function passed to another function, to be run later.      |
 | **Callback Hell**   | Many nested callbacks leading to hard-to-read code.          |
 | **Better approach** | Use Promises or `async/await` to handle async logic cleanly. |
-
----
-
-Would you like an example of how to refactor your callback hell into Promises or `async/await`?
