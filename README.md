@@ -1,7 +1,3 @@
-You're working with **asynchronous JavaScript**, where code execution doesn't always happen line-by-line in the order it appears — especially when using things like `setTimeout`, `callbacks`, or APIs. Let me explain the key concepts illustrated in your code:
-
----
-
 ## 🔄 Synchronous vs Asynchronous
 
 ### 🔹 Synchronous Code:
